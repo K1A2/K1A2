@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 :mortar_board:인공지능을 전공하고 있습니다. 하지만 관심 있는 분야는 최대한 다양하게 접해보려고 노력중입니다.
 
-### :wrench:Skills:wrench:
+## :wrench:Skills:wrench:
 
-#### Moblie:iphone:
+### Moblie:iphone:
 
 <p>
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -28,6 +28,20 @@
 </p>
 
 * cross-flatform - 2021.08~
+
+<br>
+
+### Machine Learning:computer:
+
+<p>
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+* tensorflow-keras - 2020.08~
+
+## Github Status
 
 <div align="center">
   
