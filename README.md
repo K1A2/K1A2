@@ -41,8 +41,7 @@
 
 ## Github Status
 
-<div align="center">
-  
-  ![K1A2's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1A2&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1A2&layout=compact&exclude_repo=Pysics-Simulator,SolarSystemOrbitSimulator&theme=tokyonight)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K1A2&theme=tokyonight" width="40%" height="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1A2&layout=compact&exclude_repo=Pysics-Simulator,SolarSystemOrbitSimulator&theme=tokyonight" width="40%" height="40%">
+</p>
