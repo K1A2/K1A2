@@ -43,7 +43,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K1A2&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1A2&layout=compact&exclude_repo=Pysics-Simulator,SolarSystemOrbitSimulator&theme=tokyonight">
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jckim0307)](https://solved.ac/jckim0307)
+  <a href="https://solved.ac/jckim0307"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jckim0307"></a>
 </p>
