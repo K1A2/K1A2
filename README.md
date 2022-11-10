@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:mortar_board:인공지능을 전공하고 있습니다.  
+:mortar_board: 인공지능을 전공하고 있습니다.  
 관심 있는 분야는 최대한 다양하게 접해보려고 노력중입니다.
 
 ## Experience
@@ -9,9 +9,9 @@
 * 2021.11 [[한양대 ERICA]신용카드 사용자 연체 예측 AI 경진대회](https://dacon.io/competitions/official/235832/overview/description) 최우수
 * 2022.07~2021.08 [네이버 AI Rush 2022](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
 
-## :wrench:Skills:wrench:
+## :wrench: Skills :wrench:
 
-### Moblie:iphone:
+### :iphone: Moblie
 
 <p>
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -26,7 +26,9 @@
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
-### Machine Learning:computer:
+### :satellite: Back-end
+
+### :computer: Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
