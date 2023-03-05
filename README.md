@@ -7,7 +7,7 @@
 
 * 2021.04~2021.07 [네이버 AI Rush 2021](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
 * 2021.11 [[한양대 ERICA]신용카드 사용자 연체 예측 AI 경진대회](https://dacon.io/competitions/official/235832/overview/description) 최우수
-* 2022.07~2021.08 [네이버 AI Rush 2022](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
+* 2022.07~2022.08 [네이버 AI Rush 2022](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
 
 ## :wrench: Skills :wrench:
 
@@ -28,12 +28,31 @@
 
 ### :satellite: Back-end
 
+<p>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+### :newspaper: Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+</p>
+
 ### :computer: Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+### :mag_right: Design
+
+<p>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 ### Other Languages
@@ -48,3 +67,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=K1A2&theme=tokyonight">
   <a href="https://solved.ac/jckim0307"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jckim0307"></a>
 </p>
+
+## 더 자세한 포트폴리오
+
+<a href="https://atom-basin-5f5.notion.site/f5b449b3a63f4097b460b1bbb7ced50c">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
