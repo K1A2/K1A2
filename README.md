@@ -8,6 +8,7 @@
 * 2021.04~2021.07 [네이버 AI Rush 2021](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
 * 2021.11 [[한양대 ERICA]신용카드 사용자 연체 예측 AI 경진대회](https://dacon.io/competitions/official/235832/overview/description) 최우수
 * 2022.07~2022.08 [네이버 AI Rush 2022](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
+* 2023.04~ SW 마에스트로 참여중
 
 ## :wrench: Skills :wrench:
 
