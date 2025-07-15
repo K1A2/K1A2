@@ -5,10 +5,11 @@
 
 ## Experience
 
-* 2021.04~2021.07 [네이버 AI Rush 2021](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
-* 2021.11 [[한양대 ERICA]신용카드 사용자 연체 예측 AI 경진대회](https://dacon.io/competitions/official/235832/overview/description) 최우수
-* 2022.07~2022.08 [네이버 AI Rush 2022](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
+* 2025.05~2024.11 [2024 관광데이터 활용 공모전](https://touraz.kr/announcementList/pssrpView?pssrpSeqEnc=P9YXRS6PuRJkiLlWoFF51w==&curPage=26) 우수상
 * 2023.04~2023.11 [SW 마에스트로 14기](https://swmaestro.org/sw/main/main.do) 수료
+* 2022.07~2022.08 [네이버 AI Rush 2022](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
+* 2021.11 [[한양대 ERICA]신용카드 사용자 연체 예측 AI 경진대회](https://dacon.io/competitions/official/235832/overview/description) 최우수
+* 2021.04~2021.07 [네이버 AI Rush 2021](https://campaign.naver.com/clova_airush/) 본선 2라운드 진출
 
 ## :wrench: Skills :wrench:
 
@@ -30,14 +31,15 @@
 ### :satellite: Back-end
 
 <p>
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/fasrapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ### :newspaper: Front-end
 
 <p>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
@@ -45,9 +47,7 @@
 ### :computer: Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
@@ -55,6 +55,13 @@
 
 <p>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+### :bullettrain_side: DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </p>
 
 <!-- ### Other Languages
@@ -72,5 +79,5 @@
 
 ## Links
 
-- [포트폴리오](https://atom-basin-5f5.notion.site/f5b449b3a63f4097b460b1bbb7ced50c)
+- [포트폴리오](https://atom-basin-5f5.notion.site/22747ebb572780a1b2cdf656b307823f?source=copy_link)
 - [블로그](https://blog.k1a2.xyz/)
