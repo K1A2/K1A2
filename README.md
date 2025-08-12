@@ -79,5 +79,5 @@
 
 ## Links
 
-- [포트폴리오](https://www.notion.so/v3-24d47ebb572780f987dfe37a28a8bbe5#24d47ebb572781218067e523db6819b9)
+- [포트폴리오](https://atom-basin-5f5.notion.site/v3-24d47ebb572780f987dfe37a28a8bbe5?source=copy_link)
 - [블로그](https://blog.k1a2.xyz/)
