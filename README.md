@@ -70,14 +70,14 @@
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 </p> -->
 
-## Github Status
+<!--## Github Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K1A2&theme=tokyonight">
   <a href="https://solved.ac/jckim0307"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jckim0307"></a>
-</p>
+</p> -->
 
 ## Links
 
-- [포트폴리오](https://atom-basin-5f5.notion.site/v3-24d47ebb572780f987dfe37a28a8bbe5?source=copy_link)
+<!-- - [포트폴리오](https://atom-basin-5f5.notion.site/v3-24d47ebb572780f987dfe37a28a8bbe5?source=copy_link) -->
 - [블로그](https://blog.k1a2.xyz/)
